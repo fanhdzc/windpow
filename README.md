@@ -1,4 +1,4 @@
-Wind Power Forecasting Using Artificial Neural Networks
+## Wind Power Forecasting Using Artificial Neural Networks
 
 Abstract:
 This dissertation explores the development and optimization of short-term wind power forecasting models using Artificial Neural Networks (ANNs). The research focuses on improving forecasting accuracy through optimal input feature selection and real-time weather data integration.
